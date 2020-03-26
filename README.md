@@ -2,5 +2,6 @@
 a simple d3d9 hooking library based on CSharp.NET
 <footer>
 compiled with Visual Studio 2019
+</footer>
 <footer>
 makes pattern finding process easier
